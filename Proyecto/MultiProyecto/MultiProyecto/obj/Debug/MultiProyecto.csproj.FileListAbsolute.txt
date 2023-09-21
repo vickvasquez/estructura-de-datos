@@ -1,0 +1,5 @@
+I:\Proyecto\MultiProyecto\MultiProyecto\bin\Debug\MultiProyecto.exe
+I:\Proyecto\MultiProyecto\MultiProyecto\bin\Debug\MultiProyecto.pdb
+I:\Proyecto\MultiProyecto\MultiProyecto\obj\Debug\ResolveAssemblyReference.cache
+I:\Proyecto\MultiProyecto\MultiProyecto\obj\Debug\MultiProyecto.exe
+I:\Proyecto\MultiProyecto\MultiProyecto\obj\Debug\MultiProyecto.pdb

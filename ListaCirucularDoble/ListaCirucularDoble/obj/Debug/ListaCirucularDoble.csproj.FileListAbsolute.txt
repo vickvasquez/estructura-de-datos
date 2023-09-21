@@ -1,0 +1,16 @@
+I:\Proyecto\ListaCirucularDoble\ListaCirucularDoble\bin\Debug\ListaCirucularDoble.exe
+I:\Proyecto\ListaCirucularDoble\ListaCirucularDoble\bin\Debug\ListaCirucularDoble.pdb
+I:\Proyecto\ListaCirucularDoble\ListaCirucularDoble\obj\Debug\ResolveAssemblyReference.cache
+I:\Proyecto\ListaCirucularDoble\ListaCirucularDoble\obj\Debug\ListaCirucularDoble.Form1.resources
+I:\Proyecto\ListaCirucularDoble\ListaCirucularDoble\obj\Debug\ListaCirucularDoble.Properties.Resources.resources
+I:\Proyecto\ListaCirucularDoble\ListaCirucularDoble\obj\Debug\ListaCirucularDoble.csproj.GenerateResource.Cache
+I:\Proyecto\ListaCirucularDoble\ListaCirucularDoble\obj\Debug\ListaCirucularDoble.exe
+I:\Proyecto\ListaCirucularDoble\ListaCirucularDoble\obj\Debug\ListaCirucularDoble.pdb
+J:\Proyecto\ListaCirucularDoble\ListaCirucularDoble\obj\Debug\ListaCirucularDoble.exe
+J:\Proyecto\ListaCirucularDoble\ListaCirucularDoble\obj\Debug\ListaCirucularDoble.pdb
+J:\Proyecto\ListaCirucularDoble\ListaCirucularDoble\bin\Debug\ListaCirucularDoble.exe
+J:\Proyecto\ListaCirucularDoble\ListaCirucularDoble\bin\Debug\ListaCirucularDoble.pdb
+J:\Proyecto\ListaCirucularDoble\ListaCirucularDoble\obj\Debug\ResolveAssemblyReference.cache
+J:\Proyecto\ListaCirucularDoble\ListaCirucularDoble\obj\Debug\ListaCirucularDoble.Form1.resources
+J:\Proyecto\ListaCirucularDoble\ListaCirucularDoble\obj\Debug\ListaCirucularDoble.Properties.Resources.resources
+J:\Proyecto\ListaCirucularDoble\ListaCirucularDoble\obj\Debug\ListaCirucularDoble.csproj.GenerateResource.Cache

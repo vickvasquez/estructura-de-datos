@@ -1,0 +1,5 @@
+I:\Proyecto\RadixColas\RadixColas\bin\Debug\RadixColas.exe
+I:\Proyecto\RadixColas\RadixColas\bin\Debug\RadixColas.pdb
+I:\Proyecto\RadixColas\RadixColas\obj\Debug\ResolveAssemblyReference.cache
+I:\Proyecto\RadixColas\RadixColas\obj\Debug\RadixColas.exe
+I:\Proyecto\RadixColas\RadixColas\obj\Debug\RadixColas.pdb

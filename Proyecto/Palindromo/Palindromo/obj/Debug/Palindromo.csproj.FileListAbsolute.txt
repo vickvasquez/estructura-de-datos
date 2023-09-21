@@ -1,0 +1,5 @@
+I:\Proyecto\Palindromo\Palindromo\bin\Debug\Palindromo.exe
+I:\Proyecto\Palindromo\Palindromo\bin\Debug\Palindromo.pdb
+I:\Proyecto\Palindromo\Palindromo\obj\Debug\ResolveAssemblyReference.cache
+I:\Proyecto\Palindromo\Palindromo\obj\Debug\Palindromo.exe
+I:\Proyecto\Palindromo\Palindromo\obj\Debug\Palindromo.pdb

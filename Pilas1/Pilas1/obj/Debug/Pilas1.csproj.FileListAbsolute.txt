@@ -1,0 +1,5 @@
+I:\Proyecto\Pilas1\Pilas1\bin\Debug\Pilas1.exe
+I:\Proyecto\Pilas1\Pilas1\bin\Debug\Pilas1.pdb
+I:\Proyecto\Pilas1\Pilas1\obj\Debug\ResolveAssemblyReference.cache
+I:\Proyecto\Pilas1\Pilas1\obj\Debug\Pilas1.exe
+I:\Proyecto\Pilas1\Pilas1\obj\Debug\Pilas1.pdb
